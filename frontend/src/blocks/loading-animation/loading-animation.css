@@ -1,0 +1,10 @@
+.loading-animation {
+  width: 150px;
+  height: 150px;
+  background-image: url('../../images/loading.gif');
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  align-self: start;
+  justify-self: center;
+}

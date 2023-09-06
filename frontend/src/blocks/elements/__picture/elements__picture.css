@@ -1,0 +1,5 @@
+.elements__picture {
+  object-fit: cover;
+  width: 282px;
+  min-height: 282px;
+}

@@ -1,0 +1,8 @@
+.popup__container_type_picture {
+  background-color: transparent;
+  width: fit-content;
+  height: fit-content;
+  transform: translate(-50%, -50%);
+  border-radius: 0px;
+  line-height: 0px;
+}

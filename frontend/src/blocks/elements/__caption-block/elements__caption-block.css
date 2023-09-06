@@ -1,0 +1,7 @@
+.elements__caption-block {
+  margin: 28px 20px 27.5px 21px;
+  min-height: 24px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}

@@ -1,0 +1,10 @@
+.login__subtitle-link {
+  color: #FFFFFF;
+  text-decoration: none;
+  opacity: 1;
+}
+
+.login__subtitle-link:hover {
+  opacity: 0.6;
+  transition-duration: 0.9s;
+}
