@@ -1,4 +1,4 @@
-const baseUrl = 'http://api.qr1xmesto.students.nomoredomainsicu.ru'
+const baseUrl = 'https://api.qr1xmesto.students.nomoredomainsicu.ru'
 
 function getData(res) {
   return res.ok ? res.json() : Promise.reject(`#{res.status} ${res.statusText}`)

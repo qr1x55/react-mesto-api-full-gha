@@ -9,7 +9,7 @@
 
 ## Ссылки на проект
 
-IP-адрес 51.250.74.138
+IP 51.250.74.138
 
 Frontend https://qr1xmesto.students.nomoredomainsicu.ru
 

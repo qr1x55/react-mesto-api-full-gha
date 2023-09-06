@@ -111,7 +111,7 @@ class Api {
 }
 
 const api = new Api({
-  baseUrl: 'http://api.qr1xmesto.students.nomoredomainsicu.ru',
+  baseUrl: 'https://api.qr1xmesto.students.nomoredomainsicu.ru',
 });
 
 export default api
